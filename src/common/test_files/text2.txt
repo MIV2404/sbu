@@ -1,0 +1,40 @@
+
+
+agskfhgskaghf
+AFLSMslg
+test1sADGASDG
+sADGASDGASDG
+SDFStest2
+SDGSGTTTTT
+
+
+213424
+
+|            %$$$$$$$$$$$
+				2hedfh      sdfsfsf           werjlwr
+    0
+				
+                
+                test3
+########
+
+    jjj
+
+test4
+
+
+
+!!!!!almondsm@at-i7 grep % gcc s21_grep.c
+!!!!!almondsm@at-i7 grep % ./a.out -c text.txt text.txt
+text.txt:4
+111
+
+11111111
+t
+
+TTT
+
+t
+      t
+
+      Prov

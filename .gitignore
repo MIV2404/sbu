@@ -1,0 +1,71 @@
+# # Prerequisites
+# *.d
+
+# # Object files
+# *.o
+# *.ko
+# *.obj
+# *.elf
+
+# # Linker output
+# *.ilk
+# *.map
+# *.exp
+
+# # Precompiled Headers
+# *.gch
+# *.pch
+
+# # Libraries
+# *.lib
+# *.a
+# *.la
+# *.lo
+
+# # Shared objects (inc. Windows DLLs)
+# *.dll
+# *.so
+# *.so.*
+# *.dylib
+
+# # Executables
+# *.exe
+# *.app
+# *.i*86
+# *.x86_64
+# *.hex
+
+# # Debug files
+# *.dSYM/
+# *.su
+# *.idb
+# *.pdb
+
+# # Kernel Module Compile Results
+# *.mod*
+# *.cmd
+# .tmp_versions/
+# modules.order
+# Module.symvers
+# Mkfile.old
+# dkms.conf
+
+../.DS_Store
+s21_cat
+edsd.c
+snfd.c
+s21_cat.dSYM/Contents/Info.plist
+s21_cat.dSYM/Contents/Resources/DWARF/s21_cat
+src/cat/generate_test_file
+.DS_Store
+../../.vscode/
+.vscode/
+cat_output/
+output/
+src/grep/s21_grep_old.c
+src/grep/s21_grep_old.h
+src/grep/.clang-format
+src/grep/grep
+src/grep/russian_text.txt
+src/grep/s21_grep
+src/grep/s21_grep.dSYM/
